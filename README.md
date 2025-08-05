@@ -1,3 +1,4 @@
 # collage-demo
 This is my first Repository
-Author - RupalDevrat
+<br>
+Author - Rupal Devrat
