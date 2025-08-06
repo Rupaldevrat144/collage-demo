@@ -1,0 +1,65 @@
+/* #box1 {
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    font-size: 10px;
+}
+
+#box2 {
+    width: 30%;
+    background-color: yellow;
+    margin-left: 10%;
+    font-size: 2em;
+    width: 5rem;
+    height: 100vh;
+} */
+
+/* div {
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    border: 2px solid black;
+    display: inline-block;
+}
+
+#box1 {
+    background-image: url("rat_photo.jpg");
+    background-size: cover; */
+    /* background-repeat: no-repeat;
+} */
+
+/* #box1 {
+    position: static;
+}
+
+#box2 {
+    position: relative;
+    top:20px;
+    left:10px;
+    z-index: 1;
+}
+
+#box3 {
+    position: absolute;
+    top:500px;
+    left:20px;
+}
+
+#box4 {
+    position: fixed;
+    top: 50px;
+    z-index: -3;
+    
+} */
+
+div {
+    height: 100px;
+    width: 100px;
+    background-image: url("nature.jpg");
+    background-size: cover;
+    color: white;
+    position: fixed;
+    right: 0px;
+    top: 50p;
+}
+
